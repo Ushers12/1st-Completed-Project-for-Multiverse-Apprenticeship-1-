@@ -1,2 +1,3 @@
 # 1st-Completed-Project-for-Multiverse-Apprenticeship-1-
-Full and complete project with use of Javascript and / or Python coding language(s).
+Project with use of Python coding language.
+Block calculates the factorial of a number.
